@@ -9,7 +9,7 @@ In this task Assignment 7 of the Python has been solved in which I understood th
 7. Magic Methods
 8. Operator Overloading
 
-equirements for running my code:-
+Requirements for running my code:-
 
 1. Python 3.x
 2. Jupyter Notebook
